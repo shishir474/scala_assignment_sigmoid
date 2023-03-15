@@ -9,7 +9,7 @@ The convertToRange function takes an array of doubles as input and returns an ar
 The main function creates an array of doubles and calls convertToRange on it. The resulting array of tuples is then printed to the console.
 
 
-#Q2.
+# Q2.
 This Scala code defines a case class Player with attributes representing information about a cricket player, including their year of performance, name, country, number of matches played, runs scored, and wickets taken. It also defines a class Solve with several methods to analyze this data.
 
 The printPlayer method takes a Player object as input and prints their attributes.
