@@ -45,3 +45,42 @@ object Solution{
 
 //x.000 - x.049
 //x.050 - x.099
+
+
+
+// 10.593
+// left =10.5
+// right= 93
+// since right > 49 append 50
+// 10.550 - 10.599
+
+// 12.052
+// left = 12.0
+// right=52
+// since 52>49 append 50
+// 12.050 + 12.099
+
+// 12.136
+// left =12.1
+// right = 36
+// since 36<49 append 00
+// 12.100 - 12.149
+
+// 0.534
+// left =. 0.5
+// right = 34 
+// since 34 < 49 append 00
+// 0.500 - 0.549
+
+// 12.1
+// left = 12.1
+// right = 0
+// since right < 4.9 --> append 00 
+// 12.100 - 12.149
+
+// 12.01
+// left = 12.0
+// right = 1
+// since 1 < 4.9 --> append 00 
+// 12.000 - 12.049
+
